@@ -1,3 +1,2 @@
 # Interactive
-Interactive Class Code Samples
-Interactive Testing 
+Interactive Class Code Samples & Demos
